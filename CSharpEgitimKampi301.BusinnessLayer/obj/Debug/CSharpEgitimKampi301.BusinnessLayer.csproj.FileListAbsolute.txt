@@ -1,0 +1,15 @@
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.BusinnessLayer.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.BusinnessLayer.pdb
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\obj\Debug\CSharpEgitimKampi301.BusinnessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\obj\Debug\CSharpEgitimKampi301.BusinnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\obj\Debug\CSharpEg.D353C39B.Up2Date
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\obj\Debug\CSharpEgitimKampi301.BusinnessLayer.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinnessLayer\obj\Debug\CSharpEgitimKampi301.BusinnessLayer.pdb

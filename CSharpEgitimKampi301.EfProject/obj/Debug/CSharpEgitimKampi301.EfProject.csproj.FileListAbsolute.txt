@@ -1,0 +1,17 @@
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\CSharpEgitimKampi301.EfProject.exe.config
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\CSharpEgitimKampi301.EfProject.exe
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\CSharpEgitimKampi301.EfProject.pdb
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.Form1.resources
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEg.B93C85D7.Up2Date
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.exe
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.pdb
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.FrmLocation.resources
+C:\Users\Abdullah\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EfProject\obj\Debug\CSharpEgitimKampi301.EfProject.FrmStatistics.resources
