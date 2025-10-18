@@ -113,7 +113,7 @@ This repository typically contains multiple simple Console Application projects.
 
 3. **Database settings:**
     * Manually add database and add related tables
-    * Replace the database and server name in * appsettings or related file with the one you specified
+    * Replace the database and server name in appsettings or related file with the one you specified
 
 4.  **Building and Running:**
     * Build the solution in Visual Studio (`Build Solution` or F6).
