@@ -118,7 +118,7 @@ This repository typically contains multiple simple Console Application projects.
 4.  **Building and Running:**
     * Build the solution in Visual Studio (`Build Solution` or F6).
     * Set the project you wish to run as the **`Startup Project`** and press **F5** to start the application.
-
+      
 ---
 ---
 
